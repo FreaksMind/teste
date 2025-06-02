@@ -99,7 +99,6 @@ pydantic_core==2.33.2
 pydub==0.25.1
 Pygments==2.19.1
 PyPika==0.48.9
-pypiwin32==223
 pyproject_hooks==1.2.0
 pyreadline3==3.5.4
 python-dateutil==2.9.0.post0
